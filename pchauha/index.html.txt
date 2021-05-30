@@ -1,11 +1,11 @@
 
-PARA 1:
+Para 1:
 
 In imperdiet massa nisl, nec semper quam auctor a. Donec 
 elementum eros ornare condimentum consequat.
  Suspendisse nec erat sit amet purus feugiat congue. 
 
-PARA 2:
+Para 2:
  Maecenas fringilla laoreet leo, ut feugiat
  magna semper et. Maecenas purus diam, aliquet at erat sed,
  consequat sagittis arcu. Vivamus ut ullamcorper erat, laoreet 
@@ -20,7 +20,7 @@ In imperdiet massa nisl, nec semper quam auctor a. Donec elementum eros ornare c
 
 
 
-PARA 3:
+Para 3:
  Nullam non ex porttitor, vehicula erat in, mollis 
 dolor. Sed sed blandit justo. Nullam placerat sapien sed tellus 
 vulputate placerat. Aliquam tortor mi, congue id mattis sit amet,
